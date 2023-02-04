@@ -1,0 +1,2 @@
+# projeto-gorgeta
+ calculando gorgeta
